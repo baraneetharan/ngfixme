@@ -1,6 +1,6 @@
 import { CounterCompPage } from './counter.po';
 
-describe('Counter Component', () => {
+describe('Counter component', () => {
   let page: CounterCompPage;
 
   beforeEach(() => {
